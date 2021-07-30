@@ -3,2807 +3,2406 @@ export default {
         {
             "text": "christmas",
             "count": 100,
-            "lang": "en",
             "id": "christmas",
             "type": "noun"
         },
         {
             "text": "merry",
             "count": 100,
-            "lang": "en",
             "id": "merry",
             "type": "adj"
         },
         {
             "text": "gift",
             "count": 100,
-            "lang": "en",
             "id": "gift",
             "type": "noun"
         },
         {
             "text": "christmaseve",
             "count": 100,
-            "lang": "en",
             "id": "christmaseve",
             "type": "noun"
         },
         {
             "text": "santa",
             "count": 100,
-            "lang": "en",
             "id": "santa",
             "type": "noun"
         },
         {
             "text": "happy",
             "count": 100,
-            "lang": "en",
             "id": "happy",
             "type": "adj"
         },
         {
             "text": "family",
             "count": 100,
-            "lang": "en",
             "id": "family",
             "type": "noun"
         },
         {
             "text": "eve",
             "count": 100,
-            "lang": "en",
             "id": "eve",
             "type": "noun"
         },
         {
             "text": "amp",
             "count": 100,
-            "lang": "en",
             "id": "amp",
             "type": "noun"
         },
         {
             "text": "love",
             "count": 100,
-            "lang": "en",
             "id": "love",
             "type": "v"
         },
         {
             "text": "holidays",
             "count": 100,
-            "lang": "en",
             "id": "holidays",
             "type": "noun"
         },
         {
             "text": "day",
             "count": 100,
-            "lang": "en",
             "id": "day",
             "type": "noun"
         },
         {
             "text": "everyone",
             "count": 100,
-            "lang": "en",
             "id": "everyone",
             "type": "noun"
         },
         {
             "text": "time",
             "count": 100,
-            "lang": "en",
             "id": "time",
             "type": "noun"
         },
         {
             "text": "holiday",
             "count": 100,
-            "lang": "en",
             "id": "holiday",
             "type": "noun"
         },
         {
             "text": "merrychristmas",
             "count": 1322,
-            "lang": "en",
             "id": "merrychristmas",
             "type": "noun"
         },
         {
             "text": "new",
             "count": 1214,
-            "lang": "en",
             "id": "new",
             "type": "adj"
         },
         {
             "text": "xmas",
             "count": 1157,
-            "lang": "en",
             "id": "xmas",
             "type": "noun"
         },
         {
             "text": "year",
             "count": 1139,
-            "lang": "en",
             "id": "year",
             "type": "noun"
         },
         {
             "text": "win",
             "count": 981,
-            "lang": "en",
             "id": "win",
             "type": "v"
         },
         {
             "text": "free",
             "count": 956,
-            "lang": "en",
             "id": "free",
             "type": "adj"
         },
         {
             "text": "newdeals",
             "count": 870,
-            "lang": "en",
             "id": "newdeals",
             "type": "noun"
         },
         {
             "text": "discover",
             "count": 822,
-            "lang": "en",
             "id": "discover",
             "type": "v"
         },
         {
             "text": "like",
             "count": 809,
-            "lang": "en",
             "id": "like",
             "type": "v"
         },
         {
             "text": "blackfriday",
             "count": 802,
-            "lang": "en",
             "id": "blackfriday",
             "type": "noun"
         },
         {
             "text": "best",
             "count": 742,
-            "lang": "en",
             "id": "best",
             "type": "adj"
         },
         {
             "text": "fashion",
             "count": 728,
-            "lang": "en",
             "id": "fashion",
             "type": "noun"
         },
         {
             "text": "start",
             "count": 717,
-            "lang": "en",
             "id": "start",
             "type": "v"
         },
         {
             "text": "style",
             "count": 686,
-            "lang": "en",
             "id": "style",
             "type": "noun"
         },
         {
             "text": "great",
             "count": 684,
-            "lang": "en",
             "id": "great",
             "type": "adj"
         },
         {
             "text": "wish",
             "count": 680,
-            "lang": "en",
             "id": "wish",
             "type": "v"
         },
         {
             "text": "tree",
             "count": 680,
-            "lang": "en",
             "id": "tree",
             "type": "noun"
         },
         {
             "text": "last",
             "count": 679,
-            "lang": "en",
             "id": "last",
             "type": "adj"
         },
         {
             "text": "night",
             "count": 663,
-            "lang": "en",
             "id": "night",
             "type": "noun"
         },
         {
             "text": "gifts",
             "count": 658,
-            "lang": "en",
             "id": "gifts",
             "type": "noun"
         },
         {
             "text": "home",
             "count": 645,
-            "lang": "en",
             "id": "home",
             "type": "noun"
         },
         {
             "text": "friends",
             "count": 640,
-            "lang": "en",
             "id": "friends",
             "type": "noun"
         },
         {
             "text": "good",
             "count": 609,
-            "lang": "en",
             "id": "good",
             "type": "adj"
         },
         {
             "text": "very",
             "count": 603,
-            "lang": "en",
             "id": "very",
             "type": "adj"
         },
         {
             "text": "hope",
             "count": 598,
-            "lang": "en",
             "id": "hope",
             "type": "v"
         },
         {
             "text": "wishing",
             "count": 592,
-            "lang": "en",
             "id": "wishing",
             "type": "v"
         },
         {
             "text": "quiz",
             "count": 584,
-            "lang": "en",
             "id": "quiz",
             "type": "noun"
         },
         {
             "text": "presents",
             "count": 583,
-            "lang": "en",
             "id": "presents",
             "type": "noun"
         },
         {
             "text": "today",
             "count": 582,
-            "lang": "en",
             "id": "today",
             "type": "adv"
         },
         {
             "text": "before",
             "count": 580,
-            "lang": "en",
             "id": "before",
             "type": "adv"
         },
         {
             "text": "more",
             "count": 579,
-            "lang": "en",
             "id": "more",
             "type": "adv"
         },
         {
             "text": "season",
             "count": 546,
-            "lang": "en",
             "id": "season",
             "type": "noun"
         },
         {
             "text": "ready",
             "count": 502,
-            "lang": "en",
             "id": "ready",
             "type": "adj"
         },
         {
             "text": "want",
             "count": 493,
-            "lang": "en",
             "id": "want",
             "type": "v"
         },
         {
             "text": "happyholidays",
             "count": 492,
-            "lang": "en",
             "id": "happyholidays",
             "type": "noun"
         },
         {
             "text": "days",
             "count": 472,
-            "lang": "en",
             "id": "days",
             "type": "noun"
         },
         {
             "text": "tomorrow",
             "count": 465,
-            "lang": "en",
             "id": "tomorrow",
             "type": "adv"
         },
         {
             "text": "festive",
             "count": 458,
-            "lang": "en",
             "id": "festive",
             "type": "adj"
         },
         {
             "text": "shopping",
             "count": 452,
-            "lang": "en",
             "id": "shopping",
             "type": "noun"
         },
         {
             "text": "jesus",
             "count": 447,
-            "lang": "en",
             "id": "jesus",
             "type": "noun"
         },
         {
             "text": "little",
             "count": 431,
-            "lang": "en",
             "id": "little",
             "type": "adj"
         },
         {
             "text": "dinner",
             "count": 422,
-            "lang": "en",
             "id": "dinner",
             "type": "noun"
         },
         {
             "text": "christmastree",
             "count": 419,
-            "lang": "en",
             "id": "christmastree",
             "type": "noun"
         },
         {
             "text": "fun",
             "count": 412,
-            "lang": "en",
             "id": "fun",
             "type": "adj"
         },
         {
             "text": "special",
             "count": 407,
-            "lang": "en",
             "id": "special",
             "type": "adj"
         },
         {
             "text": "wonderful",
             "count": 404,
-            "lang": "en",
             "id": "wonderful",
             "type": "adj"
         },
         {
             "text": "music",
             "count": 402,
-            "lang": "en",
             "id": "music",
             "type": "noun"
         },
         {
             "text": "tonight",
             "count": 384,
-            "lang": "en",
             "id": "tonight",
             "type": "adv"
         },
         {
             "text": "party",
             "count": 382,
-            "lang": "en",
             "id": "party",
             "type": "noun"
         },
         {
             "text": "favorite",
             "count": 381,
-            "lang": "en",
             "id": "favorite",
             "type": "adj"
         },
         {
             "text": "enjoy",
             "count": 370,
-            "lang": "en",
             "id": "enjoy",
             "type": "v"
         },
         {
             "text": "world",
             "count": 368,
-            "lang": "en",
             "id": "world",
             "type": "noun"
         },
         {
             "text": "cookies",
             "count": 367,
-            "lang": "en",
             "id": "cookies",
             "type": "noun"
         },
         {
             "text": "present",
             "count": 367,
-            "lang": "en",
             "id": "present",
             "type": "v"
         },
         {
             "text": "only",
             "count": 366,
-            "lang": "en",
             "id": "only",
             "type": "adj"
         },
         {
             "text": "celebrate",
             "count": 366,
-            "lang": "en",
             "id": "celebrate",
             "type": "v"
         },
         {
             "text": "look",
             "count": 363,
-            "lang": "en",
             "id": "look",
             "type": "v"
         },
         {
             "text": "joy",
             "count": 363,
-            "lang": "en",
             "id": "joy",
             "type": "noun"
         },
         {
             "text": "see",
             "count": 358,
-            "lang": "en",
             "id": "see",
             "type": "v"
         },
         {
             "text": "christmaseveeve",
             "count": 358,
-            "lang": "en",
             "id": "christmaseveeve",
             "type": "noun"
         },
         {
             "text": "weekend",
             "count": 351,
-            "lang": "en",
             "id": "weekend",
             "type": "noun"
         },
         {
             "text": "lights",
             "count": 345,
-            "lang": "en",
             "id": "lights",
             "type": "noun"
         },
         {
             "text": "know",
             "count": 344,
-            "lang": "en",
             "id": "know",
             "type": "v"
         },
         {
             "text": "morning",
             "count": 342,
-            "lang": "en",
             "id": "morning",
             "type": "noun"
         },
         {
             "text": "wishes",
             "count": 337,
-            "lang": "en",
             "id": "wishes",
             "type": "noun"
         },
         {
             "text": "go",
             "count": 337,
-            "lang": "en",
             "id": "go",
             "type": "v"
         },
         {
             "text": "people",
             "count": 335,
-            "lang": "en",
             "id": "people",
             "type": "noun"
         },
         {
             "text": "thanks",
             "count": 324,
-            "lang": "en",
             "id": "thanks",
             "type": "v"
         },
         {
             "text": "house",
             "count": 324,
-            "lang": "en",
             "id": "house",
             "type": "noun"
         },
         {
             "text": "spirit",
             "count": 322,
-            "lang": "en",
             "id": "spirit",
             "type": "noun"
         },
         {
             "text": "peace",
             "count": 321,
-            "lang": "en",
             "id": "peace",
             "type": "noun"
         },
         {
             "text": "money",
             "count": 316,
-            "lang": "en",
             "id": "money",
             "type": "noun"
         },
         {
             "text": "try",
             "count": 316,
-            "lang": "en",
             "id": "try",
             "type": "v"
         },
         {
             "text": "watch",
             "count": 315,
-            "lang": "en",
             "id": "watch",
             "type": "v"
         },
         {
             "text": "thank",
             "count": 315,
-            "lang": "en",
             "id": "thank",
             "type": "v"
         },
         {
             "text": "beautiful",
             "count": 311,
-            "lang": "en",
             "id": "beautiful",
             "type": "adj"
         },
         {
             "text": "kids",
             "count": 307,
-            "lang": "en",
             "id": "kids",
             "type": "noun"
         },
         {
             "text": "open",
             "count": 298,
-            "lang": "en",
             "id": "open",
             "type": "v"
         },
         {
             "text": "need",
             "count": 295,
-            "lang": "en",
             "id": "need",
             "type": "v"
         },
         {
             "text": "food",
             "count": 293,
-            "lang": "en",
             "id": "food",
             "type": "noun"
         },
         {
             "text": "check",
             "count": 290,
-            "lang": "en",
             "id": "check",
             "type": "v"
         },
         {
             "text": "find",
             "count": 289,
-            "lang": "en",
             "id": "find",
             "type": "v"
         },
         {
             "text": "way",
             "count": 288,
-            "lang": "en",
             "id": "way",
             "type": "noun"
         },
         {
             "text": "shit",
             "count": 284,
-            "lang": "en",
             "id": "shit",
             "type": "noun"
         },
         {
             "text": "giftcard",
             "count": 279,
-            "lang": "en",
             "id": "giftcard",
             "type": "noun"
         },
         {
             "id": "make",
             "text": "make",
-            "lang": "en",
             "centerNode": "christmas",
             "neighbor": true
         },
         {
             "id": "possible",
             "text": "possible",
-            "lang": "en",
             "centerNode": "christmas",
             "neighbor": true
         },
         {
             "id": "conjunctivitis",
             "text": "conjunctivitis",
-            "lang": "en",
             "centerNode": "christmas",
             "neighbor": true
         },
         {
             "id": "honor",
             "text": "honor",
-            "lang": "en",
             "centerNode": "christmas",
             "neighbor": true
         },
         {
             "id": "in",
             "text": "in",
-            "lang": "en",
             "centerNode": "christmas",
             "neighbor": true
         },
         {
             "id": "at",
             "text": "at",
-            "lang": "en",
             "centerNode": "christmas",
             "neighbor": true
         },
         {
             "id": "and",
             "text": "and",
-            "lang": "en",
             "centerNode": "christmas",
             "neighbor": true
         },
         {
             "id": "jewelry",
             "text": "jewelry",
-            "lang": "en",
             "centerNode": "christmas",
             "neighbor": true
         },
         {
             "id": "earring",
             "text": "earring",
-            "lang": "en",
             "centerNode": "christmas",
             "neighbor": true
         },
         {
             "id": "frugifamily",
             "text": "frugifamily",
-            "lang": "en",
             "centerNode": "merry",
             "neighbor": true
         },
         {
             "id": "juice",
             "text": "juice",
-            "lang": "en",
             "centerNode": "merry",
             "neighbor": true
         },
         {
             "id": "duels",
             "text": "duels",
-            "lang": "en",
             "centerNode": "merry",
             "neighbor": true
         },
         {
             "id": "ecofriendly",
             "text": "ecofriendly",
-            "lang": "en",
             "centerNode": "merry",
             "neighbor": true
         },
         {
             "id": "or",
             "text": "or",
-            "lang": "en",
             "centerNode": "merry",
             "neighbor": true
         },
         {
             "id": "gorgeous",
             "text": "gorgeous",
-            "lang": "en",
             "centerNode": "gift",
             "neighbor": true
         },
         {
             "id": "over",
             "text": "over",
-            "lang": "en",
             "centerNode": "gift",
             "neighbor": true
         },
         {
             "id": "all",
             "text": "all",
-            "lang": "en",
             "centerNode": "gift",
             "neighbor": true
         },
         {
             "id": "homemade",
             "text": "homemade",
-            "lang": "en",
             "centerNode": "gift",
             "neighbor": true
         },
         {
             "id": "क्या",
             "text": "क्या",
-            "lang": "hi",
             "centerNode": "gift",
             "neighbor": true
         },
         {
             "id": "चाहते",
             "text": "चाहते",
-            "lang": "hi",
             "centerNode": "gift",
             "neighbor": true
         },
         {
             "id": "my",
             "text": "my",
-            "lang": "en",
             "centerNode": "gift",
             "neighbor": true
         },
         {
             "id": "will",
             "text": "will",
-            "lang": "en",
             "centerNode": "gift",
             "neighbor": true
         },
         {
             "id": "cookiecutters",
             "text": "cookiecutters",
-            "lang": "un",
             "centerNode": "christmaseve",
             "neighbor": true
         },
         {
             "id": "santaiscomingtotown",
             "text": "santaiscomingtotown",
-            "lang": "un",
             "centerNode": "christmaseve",
             "neighbor": true
         },
         {
             "id": "noel",
             "text": "noel",
-            "lang": "un",
             "centerNode": "christmaseve",
             "neighbor": true
         },
         {
             "id": "happynewyear",
             "text": "happynewyear",
-            "lang": "un",
             "centerNode": "christmaseve",
             "neighbor": true
         },
         {
             "id": "クリスマスイブ",
             "text": "クリスマスイブ",
-            "lang": "un",
             "centerNode": "christmaseve",
             "neighbor": true
         },
         {
             "id": "クリスマス",
             "text": "クリスマス",
-            "lang": "un",
             "centerNode": "christmaseve",
             "neighbor": true
         },
         {
             "id": "xmastree",
             "text": "xmastree",
-            "lang": "en",
             "centerNode": "christmaseve",
             "neighbor": true
         },
         {
             "id": "on",
             "text": "on",
-            "lang": "en",
             "centerNode": "christmaseve",
             "neighbor": true
         },
         {
             "id": "newyearpictwittercomftmgqdgx3h",
             "text": "newyearpictwittercomftmgqdgx3h",
-            "lang": "fr",
             "centerNode": "christmaseve",
             "neighbor": true
         },
         {
             "id": "red",
             "text": "red",
-            "lang": "en",
             "centerNode": "santa",
             "neighbor": true
         },
         {
             "id": "team",
             "text": "team",
-            "lang": "en",
             "centerNode": "santa",
             "neighbor": true
         },
         {
             "id": "secretsanta",
             "text": "secretsanta",
-            "lang": "en",
             "centerNode": "santa",
             "neighbor": true
         },
         {
             "id": "christmasgifts",
             "text": "christmasgifts",
-            "lang": "en",
             "centerNode": "santa",
             "neighbor": true
         },
         {
             "id": "snow",
             "text": "snow",
-            "lang": "un",
             "centerNode": "santa",
             "neighbor": true
         },
         {
             "id": "forget",
             "text": "forget",
-            "lang": "en",
             "centerNode": "santa",
             "neighbor": true
         },
         {
             "id": "yay",
             "text": "yay",
-            "lang": "en",
             "centerNode": "happy",
             "neighbor": true
         },
         {
             "id": "xmassong",
             "text": "xmassong",
-            "lang": "ja",
             "centerNode": "happy",
             "neighbor": true
         },
         {
             "id": "followfriday",
             "text": "followfriday",
-            "lang": "en",
             "centerNode": "happy",
             "neighbor": true
         },
         {
             "id": "friday",
             "text": "friday",
-            "lang": "en",
             "centerNode": "happy",
             "neighbor": true
         },
         {
             "id": "festivus",
             "text": "festivus",
-            "lang": "en",
             "centerNode": "happy",
             "neighbor": true
         },
         {
             "id": "alberta",
             "text": "alberta",
-            "lang": "en",
             "centerNode": "family",
             "neighbor": true
         },
         {
             "id": "finds",
             "text": "finds",
-            "lang": "en",
             "centerNode": "family",
             "neighbor": true
         },
         {
             "id": "albuquerque",
             "text": "albuquerque",
-            "lang": "un",
             "centerNode": "family",
             "neighbor": true
         },
         {
             "id": "means",
             "text": "means",
-            "lang": "en",
             "centerNode": "family",
             "neighbor": true
         },
         {
             "id": "ontheblog",
             "text": "ontheblog",
-            "lang": "en",
             "centerNode": "family",
             "neighbor": true
         },
         {
             "id": "heirloom",
             "text": "heirloom",
-            "lang": "en",
             "centerNode": "family",
             "neighbor": true
         },
         {
             "id": "wit",
             "text": "wit",
-            "lang": "en",
             "centerNode": "family",
             "neighbor": true
         },
         {
             "id": "your",
             "text": "your",
-            "lang": "en",
             "centerNode": "family",
             "neighbor": true
         },
         {
             "id": "are",
             "text": "are",
-            "lang": "en",
             "centerNode": "eve",
             "neighbor": true
         },
         {
             "id": "for",
             "text": "for",
-            "lang": "en",
             "centerNode": "eve",
             "neighbor": true
         },
         {
             "id": "p",
             "text": "p",
-            "lang": "en",
             "centerNode": "eve",
             "neighbor": true
         },
         {
             "id": "blog",
             "text": "blog",
-            "lang": "en",
             "centerNode": "amp",
             "neighbor": true
         },
         {
             "id": "bizarre",
             "text": "bizarre",
-            "lang": "en",
             "centerNode": "amp",
             "neighbor": true
         },
         {
             "id": "creepy",
             "text": "creepy",
-            "lang": "en",
             "centerNode": "amp",
             "neighbor": true
         },
         {
             "id": "to",
             "text": "to",
-            "lang": "en",
             "centerNode": "amp",
             "neighbor": true
         },
         {
             "id": "nurture",
             "text": "nurture",
-            "lang": "en",
             "centerNode": "amp",
             "neighbor": true
         },
         {
             "id": "cherish",
             "text": "cherish",
-            "lang": "en",
             "centerNode": "amp",
             "neighbor": true
         },
         {
             "id": "busy",
             "text": "busy",
-            "lang": "en",
             "centerNode": "amp",
             "neighbor": true
         },
         {
             "id": "what",
             "text": "what",
-            "lang": "en",
             "centerNode": "love",
             "neighbor": true
         },
         {
             "id": "4x4",
             "text": "4x4",
-            "lang": "un",
             "centerNode": "love",
             "neighbor": true
         },
         {
             "id": "defender",
             "text": "defender",
-            "lang": "un",
             "centerNode": "love",
             "neighbor": true
         },
         {
             "id": "worry",
             "text": "worry",
-            "lang": "en",
             "centerNode": "love",
             "neighbor": true
         },
         {
             "id": "hopeful",
             "text": "hopeful",
-            "lang": "en",
             "centerNode": "love",
             "neighbor": true
         },
         {
             "id": "books",
             "text": "books",
-            "lang": "en",
             "centerNode": "love",
             "neighbor": true
         },
         {
             "id": "would",
             "text": "would",
-            "lang": "en",
             "centerNode": "love",
             "neighbor": true
         },
         {
             "id": "the",
             "text": "the",
-            "lang": "en",
             "centerNode": "holidays",
             "neighbor": true
         },
         {
             "id": "im",
             "text": "im",
-            "lang": "en",
             "centerNode": "holidays",
             "neighbor": true
         },
         {
             "id": "from",
             "text": "from",
-            "lang": "en",
             "centerNode": "holidays",
             "neighbor": true
         },
         {
             "id": "bryantpark",
             "text": "bryantpark",
-            "lang": "un",
             "centerNode": "holidays",
             "neighbor": true
         },
         {
             "id": "nyc",
             "text": "nyc",
-            "lang": "un",
             "centerNode": "holidays",
             "neighbor": true
         },
         {
             "id": "photography",
             "text": "photography",
-            "lang": "en",
             "centerNode": "holidays",
             "neighbor": true
         },
         {
             "id": "familytime",
             "text": "familytime",
-            "lang": "en",
             "centerNode": "holidays",
             "neighbor": true
         },
         {
             "id": "some",
             "text": "some",
-            "lang": "en",
             "centerNode": "holidays",
             "neighbor": true
         },
         {
             "id": "with",
             "text": "with",
-            "lang": "en",
             "centerNode": "day",
             "neighbor": true
         },
         {
             "id": "ahead",
             "text": "ahead",
-            "lang": "en",
             "centerNode": "day",
             "neighbor": true
         },
         {
             "id": "working",
             "text": "working",
-            "lang": "en",
             "centerNode": "day",
             "neighbor": true
         },
         {
             "id": "until",
             "text": "until",
-            "lang": "en",
             "centerNode": "day",
             "neighbor": true
         },
         {
             "id": "is",
             "text": "is",
-            "lang": "en",
             "centerNode": "everyone",
             "neighbor": true
         },
         {
             "id": "who",
             "text": "who",
-            "lang": "en",
             "centerNode": "everyone",
             "neighbor": true
         },
         {
             "id": "if",
             "text": "if",
-            "lang": "en",
             "centerNode": "everyone",
             "neighbor": true
         },
         {
             "id": "have",
             "text": "have",
-            "lang": "en",
             "centerNode": "everyone",
             "neighbor": true
         },
         {
             "id": "done",
             "text": "done",
-            "lang": "en",
             "centerNode": "everyone",
             "neighbor": true
         },
         {
             "id": "taking",
             "text": "taking",
-            "lang": "en",
             "centerNode": "time",
             "neighbor": true
         },
         {
             "id": "out",
             "text": "out",
-            "lang": "en",
             "centerNode": "time",
             "neighbor": true
         },
         {
             "id": "one",
             "text": "one",
-            "lang": "en",
             "centerNode": "time",
             "neighbor": true
         },
         {
             "id": "donation",
             "text": "donation",
-            "lang": "en",
             "centerNode": "time",
             "neighbor": true
         },
         {
             "id": "perfect",
             "text": "perfect",
-            "lang": "en",
             "centerNode": "time",
             "neighbor": true
         },
         {
             "id": "this",
             "text": "this",
-            "lang": "en",
             "centerNode": "time",
             "neighbor": true
         },
         {
             "id": "pictwittercomwwm2sdgech",
             "text": "pictwittercomwwm2sdgech",
-            "lang": "en",
             "centerNode": "time",
             "neighbor": true
         },
         {
             "id": "memes",
             "text": "memes",
-            "lang": "en",
             "centerNode": "holiday",
             "neighbor": true
         },
         {
             "id": "fomo",
             "text": "fomo",
-            "lang": "en",
             "centerNode": "holiday",
             "neighbor": true
         },
         {
             "id": "vacation",
             "text": "vacation",
-            "lang": "en",
             "centerNode": "holiday",
             "neighbor": true
         },
         {
             "id": "be",
             "text": "be",
-            "lang": "en",
             "centerNode": "holiday",
             "neighbor": true
         },
         {
             "id": "vote",
             "text": "vote",
-            "lang": "hi",
             "centerNode": "merrychristmas",
             "neighbor": true
         },
         {
             "id": "december",
             "text": "december",
-            "lang": "en",
             "centerNode": "merrychristmas",
             "neighbor": true
         },
         {
             "id": "メリークリスマス",
             "text": "メリークリスマス",
-            "lang": "un",
             "centerNode": "merrychristmas",
             "neighbor": true
         },
         {
             "id": "santaclaus",
             "text": "santaclaus",
-            "lang": "en",
             "centerNode": "merrychristmas",
             "neighbor": true
         },
         {
             "id": "merryxmas",
             "text": "merryxmas",
-            "lang": "en",
             "centerNode": "merrychristmas",
             "neighbor": true
         },
         {
             "id": "portraits",
             "text": "portraits",
-            "lang": "fr",
             "centerNode": "merrychristmas",
             "neighbor": true
         },
         {
             "id": "prosperous",
             "text": "prosperous",
-            "lang": "en",
             "centerNode": "new",
             "neighbor": true
         },
         {
             "id": "audio",
             "text": "audio",
-            "lang": "en",
             "centerNode": "new",
             "neighbor": true
         },
         {
             "id": "year’s",
             "text": "year’s",
-            "lang": "en",
             "centerNode": "new",
             "neighbor": true
         },
         {
             "id": "apple",
             "text": "apple",
-            "lang": "en",
             "centerNode": "new",
             "neighbor": true
         },
         {
             "id": "christmassong",
             "text": "christmassong",
-            "lang": "ja",
             "centerNode": "xmas",
             "neighbor": true
         },
         {
             "id": "floydthecat",
             "text": "floydthecat",
-            "lang": "en",
             "centerNode": "xmas",
             "neighbor": true
         },
         {
             "id": "rocking",
             "text": "rocking",
-            "lang": "en",
             "centerNode": "xmas",
             "neighbor": true
         },
         {
             "id": "boys",
             "text": "boys",
-            "lang": "ja",
             "centerNode": "xmas",
             "neighbor": true
         },
         {
             "id": "auntytime",
             "text": "auntytime",
-            "lang": "en",
             "centerNode": "xmas",
             "neighbor": true
         },
         {
             "id": "noel2016",
             "text": "noel2016",
-            "lang": "un",
             "centerNode": "xmas",
             "neighbor": true
         },
         {
             "id": "long",
             "text": "long",
-            "lang": "en",
             "centerNode": "year",
             "neighbor": true
         },
         {
             "id": "may",
             "text": "may",
-            "lang": "en",
             "centerNode": "year",
             "neighbor": true
         },
         {
             "id": "plan",
             "text": "plan",
-            "lang": "en",
             "centerNode": "year",
             "neighbor": true
         },
         {
             "id": "past",
             "text": "past",
-            "lang": "en",
             "centerNode": "year",
             "neighbor": true
         },
         {
             "id": "hand",
             "text": "hand",
-            "lang": "en",
             "centerNode": "win",
             "neighbor": true
         },
         {
             "id": "competition",
             "text": "competition",
-            "lang": "en",
             "centerNode": "win",
             "neighbor": true
         },
         {
             "id": "2017",
             "text": "2017",
-            "lang": "en",
             "centerNode": "win",
             "neighbor": true
         },
         {
             "id": "our",
             "text": "our",
-            "lang": "en",
             "centerNode": "free",
             "neighbor": true
         },
         {
             "id": "fit",
             "text": "fit",
-            "lang": "en",
             "centerNode": "free",
             "neighbor": true
         },
         {
             "id": "activities",
             "text": "activities",
-            "lang": "en",
             "centerNode": "free",
             "neighbor": true
         },
         {
             "id": "card",
             "text": "card",
-            "lang": "en",
             "centerNode": "free",
             "neighbor": true
         },
         {
             "id": "running",
             "text": "running",
-            "lang": "en",
             "centerNode": "newdeals",
             "neighbor": true
         },
         {
             "id": "women",
             "text": "women",
-            "lang": "en",
             "centerNode": "newdeals",
             "neighbor": true
         },
         {
             "id": "toaster",
             "text": "toaster",
-            "lang": "en",
             "centerNode": "discover",
             "neighbor": true
         },
         {
             "id": "which",
             "text": "which",
-            "lang": "en",
             "centerNode": "discover",
             "neighbor": true
         },
         {
             "id": "dildo",
             "text": "dildo",
-            "lang": "en",
             "centerNode": "discover",
             "neighbor": true
         },
         {
             "id": "drone",
             "text": "drone",
-            "lang": "en",
             "centerNode": "discover",
             "neighbor": true
         },
         {
             "id": "slippers",
             "text": "slippers",
-            "lang": "en",
             "centerNode": "discover",
             "neighbor": true
         },
         {
             "id": "cat",
             "text": "cat",
-            "lang": "en",
             "centerNode": "like",
             "neighbor": true
         },
         {
             "id": "supernatural",
             "text": "supernatural",
-            "lang": "en",
             "centerNode": "like",
             "neighbor": true
         },
         {
             "id": "lot",
             "text": "lot",
-            "lang": "en",
             "centerNode": "like",
             "neighbor": true
         },
         {
             "id": "looks",
             "text": "looks",
-            "lang": "en",
             "centerNode": "like",
             "neighbor": true
         },
         {
             "id": "not",
             "text": "not",
-            "lang": "en",
             "centerNode": "like",
             "neighbor": true
         },
         {
             "id": "zac",
             "text": "zac",
-            "lang": "un",
             "centerNode": "blackfriday",
             "neighbor": true
         },
         {
             "id": "anne",
             "text": "anne",
-            "lang": "no",
             "centerNode": "blackfriday",
             "neighbor": true
         },
         {
             "id": "alcatel",
             "text": "alcatel",
-            "lang": "en",
             "centerNode": "blackfriday",
             "neighbor": true
         },
         {
             "id": "steven",
             "text": "steven",
-            "lang": "en",
             "centerNode": "blackfriday",
             "neighbor": true
         },
         {
             "id": "bali",
             "text": "bali",
-            "lang": "en",
             "centerNode": "blackfriday",
             "neighbor": true
         },
         {
             "id": "jackshibo",
             "text": "jackshibo",
-            "lang": "en",
             "centerNode": "blackfriday",
             "neighbor": true
         },
         {
             "id": "borgasets",
             "text": "borgasets",
-            "lang": "en",
             "centerNode": "blackfriday",
             "neighbor": true
         },
         {
             "id": "cosabella",
             "text": "cosabella",
-            "lang": "en",
             "centerNode": "blackfriday",
             "neighbor": true
         },
         {
             "id": "get",
             "text": "get",
-            "lang": "en",
             "centerNode": "best",
             "neighbor": true
         },
         {
             "id": "essaywritingservice",
             "text": "essaywritingservice",
-            "lang": "en",
             "centerNode": "best",
             "neighbor": true
         },
         {
             "id": "things",
             "text": "things",
-            "lang": "en",
             "centerNode": "best",
             "neighbor": true
         },
         {
             "id": "まで限定公開中♪",
             "text": "まで限定公開中♪",
-            "lang": "ja",
             "centerNode": "fashion",
             "neighbor": true
         },
         {
             "id": "snap",
             "text": "snap",
-            "lang": "ja",
             "centerNode": "fashion",
             "neighbor": true
         },
         {
             "id": "bags",
             "text": "bags",
-            "lang": "en",
             "centerNode": "fashion",
             "neighbor": true
         },
         {
             "id": "it",
             "text": "it",
-            "lang": "en",
             "centerNode": "fashion",
             "neighbor": true
         },
         {
             "id": "weihnachtsstream",
             "text": "weihnachtsstream",
-            "lang": "de",
             "centerNode": "start",
             "neighbor": true
         },
         {
             "id": "11uhr",
             "text": "11uhr",
-            "lang": "de",
             "centerNode": "start",
             "neighbor": true
         },
         {
             "id": "its",
             "text": "its",
-            "lang": "en",
             "centerNode": "start",
             "neighbor": true
         },
         {
             "id": "of",
             "text": "of",
-            "lang": "en",
             "centerNode": "start",
             "neighbor": true
         },
         {
             "id": "kennyfarmerart",
             "text": "kennyfarmerart",
-            "lang": "en",
             "centerNode": "style",
             "neighbor": true
         },
         {
             "id": "madmonkeycafe",
             "text": "madmonkeycafe",
-            "lang": "en",
             "centerNode": "style",
             "neighbor": true
         },
         {
             "id": "really",
             "text": "really",
-            "lang": "en",
             "centerNode": "great",
             "neighbor": true
         },
         {
             "id": "advice",
             "text": "advice",
-            "lang": "en",
             "centerNode": "great",
             "neighbor": true
         },
         {
             "id": "tips",
             "text": "tips",
-            "lang": "en",
             "centerNode": "great",
             "neighbor": true
         },
         {
             "id": "we",
             "text": "we",
-            "lang": "en",
             "centerNode": "wish",
             "neighbor": true
         },
         {
             "id": "you",
             "text": "you",
-            "lang": "en",
             "centerNode": "wish",
             "neighbor": true
         },
         {
             "id": "list",
             "text": "list",
-            "lang": "en",
             "centerNode": "wish",
             "neighbor": true
         },
         {
             "id": "i",
             "text": "i",
-            "lang": "en",
             "centerNode": "wish",
             "neighbor": true
         },
         {
             "id": "decorate",
             "text": "decorate",
-            "lang": "en",
             "centerNode": "tree",
             "neighbor": true
         },
         {
             "id": "since",
             "text": "since",
-            "lang": "en",
             "centerNode": "tree",
             "neighbor": true
         },
         {
             "id": "during",
             "text": "during",
-            "lang": "en",
             "centerNode": "tree",
             "neighbor": true
         },
         {
             "id": "years",
             "text": "years",
-            "lang": "en",
             "centerNode": "last",
             "neighbor": true
         },
         {
             "id": "forever",
             "text": "forever",
-            "lang": "en",
             "centerNode": "last",
             "neighbor": true
         },
         {
             "id": "woot",
             "text": "woot",
-            "lang": "en",
             "centerNode": "night",
             "neighbor": true
         },
         {
             "id": "heritage",
             "text": "heritage",
-            "lang": "en",
             "centerNode": "night",
             "neighbor": true
         },
         {
             "id": "late",
             "text": "late",
-            "lang": "en",
             "centerNode": "night",
             "neighbor": true
         },
         {
             "id": "galore",
             "text": "galore",
-            "lang": "en",
             "centerNode": "gifts",
             "neighbor": true
         },
         {
             "id": "diamonds",
             "text": "diamonds",
-            "lang": "en",
             "centerNode": "gifts",
             "neighbor": true
         },
         {
             "id": "120",
             "text": "120",
-            "lang": "en",
             "centerNode": "gifts",
             "neighbor": true
         },
         {
             "id": "pavelich",
             "text": "pavelich",
-            "lang": "en",
             "centerNode": "home",
             "neighbor": true
         },
         {
             "id": "via",
             "text": "via",
-            "lang": "en",
             "centerNode": "home",
             "neighbor": true
         },
         {
             "id": "pls",
             "text": "pls",
-            "lang": "en",
             "centerNode": "home",
             "neighbor": true
         },
         {
             "id": "cowboys",
             "text": "cowboys",
-            "lang": "en",
             "centerNode": "home",
             "neighbor": true
         },
         {
             "id": "divisional",
             "text": "divisional",
-            "lang": "en",
             "centerNode": "home",
             "neighbor": true
         },
         {
             "id": "igsg",
             "text": "igsg",
-            "lang": "en",
             "centerNode": "friends",
             "neighbor": true
         },
         {
             "id": "sights",
             "text": "sights",
-            "lang": "en",
             "centerNode": "friends",
             "neighbor": true
         },
         {
             "id": "oh",
             "text": "oh",
-            "lang": "en",
             "centerNode": "good",
             "neighbor": true
         },
         {
             "id": "lord",
             "text": "lord",
-            "lang": "en",
             "centerNode": "good",
             "neighbor": true
         },
         {
             "id": "looking",
             "text": "looking",
-            "lang": "en",
             "centerNode": "good",
             "neighbor": true
         },
         {
             "id": "so",
             "text": "so",
-            "lang": "en",
             "centerNode": "very",
             "neighbor": true
         },
         {
             "id": "lucky",
             "text": "lucky",
-            "lang": "en",
             "centerNode": "very",
             "neighbor": true
         },
         {
             "id": "misty",
             "text": "misty",
-            "lang": "en",
             "centerNode": "very",
             "neighbor": true
         },
         {
             "id": "strange",
             "text": "strange",
-            "lang": "en",
             "centerNode": "very",
             "neighbor": true
         },
         {
             "id": "stormbarbara",
             "text": "stormbarbara",
-            "lang": "en",
             "centerNode": "hope",
             "neighbor": true
         },
         {
             "id": "alive",
             "text": "alive",
-            "lang": "en",
             "centerNode": "hope",
             "neighbor": true
         },
         {
             "id": "lets",
             "text": "lets",
-            "lang": "en",
             "centerNode": "hope",
             "neighbor": true
         },
         {
             "id": "",
             "text": "",
-            "lang": "en",
             "centerNode": "wishing",
             "neighbor": true
         },
         {
             "id": "radio",
             "text": "radio",
-            "lang": "en",
             "centerNode": "quiz",
             "neighbor": true
         },
         {
             "id": "sharkgear",
             "text": "sharkgear",
-            "lang": "en",
             "centerNode": "presents",
             "neighbor": true
         },
         {
             "id": "nbsp",
             "text": "nbsp",
-            "lang": "en",
             "centerNode": "presents",
             "neighbor": true
         },
         {
             "id": "christmasshopping",
             "text": "christmasshopping",
-            "lang": "en",
             "centerNode": "presents",
             "neighbor": true
         },
         {
             "id": "quickly",
             "text": "quickly",
-            "lang": "en",
             "centerNode": "today",
             "neighbor": true
         },
         {
             "id": "song",
             "text": "song",
-            "lang": "en",
             "centerNode": "today",
             "neighbor": true
         },
         {
             "id": "expect",
             "text": "expect",
-            "lang": "en",
             "centerNode": "today",
             "neighbor": true
         },
         {
             "id": "work",
             "text": "work",
-            "lang": "en",
             "centerNode": "before",
             "neighbor": true
         },
         {
             "id": "up",
             "text": "up",
-            "lang": "en",
             "centerNode": "before",
             "neighbor": true
         },
         {
             "id": "barbara",
             "text": "barbara",
-            "lang": "en",
             "centerNode": "before",
             "neighbor": true
         },
         {
             "id": "claus",
             "text": "claus",
-            "lang": "en",
             "centerNode": "before",
             "neighbor": true
         },
         {
             "id": "1million",
             "text": "1million",
-            "lang": "en",
             "centerNode": "more",
             "neighbor": true
         },
         {
             "id": "excited",
             "text": "excited",
-            "lang": "en",
             "centerNode": "more",
             "neighbor": true
         },
         {
             "id": "read",
             "text": "read",
-            "lang": "en",
             "centerNode": "more",
             "neighbor": true
         },
         {
             "id": "filled",
             "text": "filled",
-            "lang": "en",
             "centerNode": "season",
             "neighbor": true
         },
         {
             "id": "has",
             "text": "has",
-            "lang": "en",
             "centerNode": "season",
             "neighbor": true
         },
         {
             "id": "coming",
             "text": "coming",
-            "lang": "en",
             "centerNode": "ready",
             "neighbor": true
         },
         {
             "id": "fellow",
             "text": "fellow",
-            "lang": "en",
             "centerNode": "happyholidays",
             "neighbor": true
         },
         {
             "id": "hanukkah",
             "text": "hanukkah",
-            "lang": "en",
             "centerNode": "happyholidays",
             "neighbor": true
         },
         {
             "id": "wtfisitpictwittercomcqauzutaap",
             "text": "wtfisitpictwittercomcqauzutaap",
-            "lang": "en",
             "centerNode": "happyholidays",
             "neighbor": true
         },
         {
             "id": "volunteer",
             "text": "volunteer",
-            "lang": "en",
             "centerNode": "happyholidays",
             "neighbor": true
         },
         {
             "id": "til",
             "text": "til",
-            "lang": "en",
             "centerNode": "days",
             "neighbor": true
         },
         {
             "id": "12",
             "text": "12",
-            "lang": "en",
             "centerNode": "days",
             "neighbor": true
         },
         {
             "id": "come",
             "text": "come",
-            "lang": "en",
             "centerNode": "tomorrow",
             "neighbor": true
         },
         {
             "id": "getting",
             "text": "getting",
-            "lang": "en",
             "centerNode": "festive",
             "neighbor": true
         },
         {
             "id": "gujarat",
             "text": "gujarat",
-            "lang": "en",
             "centerNode": "shopping",
             "neighbor": true
         },
         {
             "id": "indians",
             "text": "indians",
-            "lang": "en",
             "centerNode": "shopping",
             "neighbor": true
         },
         {
             "id": "christian",
             "text": "christian",
-            "lang": "en",
             "centerNode": "jesus",
             "neighbor": true
         },
         {
             "id": "birthday",
             "text": "birthday",
-            "lang": "en",
             "centerNode": "jesus",
             "neighbor": true
         },
         {
             "id": "தேவனா",
             "text": "தேவனா",
-            "lang": "ta",
             "centerNode": "jesus",
             "neighbor": true
         },
         {
             "id": "something",
             "text": "something",
-            "lang": "en",
             "centerNode": "little",
             "neighbor": true
         },
         {
             "id": "angels",
             "text": "angels",
-            "lang": "en",
             "centerNode": "little",
             "neighbor": true
         },
         {
             "id": "chops",
             "text": "chops",
-            "lang": "ja",
             "centerNode": "dinner",
             "neighbor": true
         },
         {
             "id": "ちょっと早めのクリスマスディナーでした",
             "text": "ちょっと早めのクリスマスディナーでした",
-            "lang": "ja",
             "centerNode": "dinner",
             "neighbor": true
         },
         {
             "id": "mobilephotography",
             "text": "mobilephotography",
-            "lang": "ja",
             "centerNode": "dinner",
             "neighbor": true
         },
         {
             "id": "santasack",
             "text": "santasack",
-            "lang": "en",
             "centerNode": "christmastree",
             "neighbor": true
         },
         {
             "id": "itsalmostchristmas",
             "text": "itsalmostchristmas",
-            "lang": "en",
             "centerNode": "christmastree",
             "neighbor": true
         },
         {
             "id": "weihnachten",
             "text": "weihnachten",
-            "lang": "de",
             "centerNode": "christmastree",
             "neighbor": true
         },
         {
             "id": "travel",
             "text": "travel",
-            "lang": "en",
             "centerNode": "fun",
             "neighbor": true
         },
         {
             "id": "math",
             "text": "math",
-            "lang": "en",
             "centerNode": "fun",
             "neighbor": true
         },
         {
             "id": "these",
             "text": "these",
-            "lang": "en",
             "centerNode": "fun",
             "neighbor": true
         },
         {
             "id": "launches",
             "text": "launches",
-            "lang": "en",
             "centerNode": "special",
             "neighbor": true
         },
         {
             "id": "person",
             "text": "person",
-            "lang": "en",
             "centerNode": "special",
             "neighbor": true
         },
         {
             "id": "incl",
             "text": "incl",
-            "lang": "en",
             "centerNode": "special",
             "neighbor": true
         },
         {
             "id": "80",
             "text": "80",
-            "lang": "en",
             "centerNode": "special",
             "neighbor": true
         },
         {
             "id": "as",
             "text": "as",
-            "lang": "en",
             "centerNode": "wonderful",
             "neighbor": true
         },
         {
             "id": "guys",
             "text": "guys",
-            "lang": "en",
             "centerNode": "music",
             "neighbor": true
         },
         {
             "id": "entertainment",
             "text": "entertainment",
-            "lang": "en",
             "centerNode": "music",
             "neighbor": true
         },
         {
             "id": "4r3",
             "text": "4r3",
-            "lang": "en",
             "centerNode": "music",
             "neighbor": true
         },
         {
             "id": "published",
             "text": "published",
-            "lang": "en",
             "centerNode": "tonight",
             "neighbor": true
         },
         {
             "id": "midnight",
             "text": "midnight",
-            "lang": "en",
             "centerNode": "tonight",
             "neighbor": true
         },
         {
             "id": "lane",
             "text": "lane",
-            "lang": "en",
             "centerNode": "tonight",
             "neighbor": true
         },
         {
             "id": "edmonton",
             "text": "edmonton",
-            "lang": "en",
             "centerNode": "tonight",
             "neighbor": true
         },
         {
             "id": "lagos",
             "text": "lagos",
-            "lang": "en",
             "centerNode": "tonight",
             "neighbor": true
         },
         {
             "id": "dressup",
             "text": "dressup",
-            "lang": "un",
             "centerNode": "party",
             "neighbor": true
         },
         {
             "id": "costarica",
             "text": "costarica",
-            "lang": "en",
             "centerNode": "party",
             "neighbor": true
         },
         {
             "id": "flowerpictwittercomohvrpmtcks",
             "text": "flowerpictwittercomohvrpmtcks",
-            "lang": "en",
             "centerNode": "party",
             "neighbor": true
         },
         {
             "id": "alltime",
             "text": "alltime",
-            "lang": "en",
             "centerNode": "favorite",
             "neighbor": true
         },
         {
             "id": "life",
             "text": "life",
-            "lang": "en",
             "centerNode": "enjoy",
             "neighbor": true
         },
         {
             "id": "zombies",
             "text": "zombies",
-            "lang": "en",
             "centerNode": "enjoy",
             "neighbor": true
         },
         {
             "id": "celebrates",
             "text": "celebrates",
-            "lang": "en",
             "centerNode": "world",
             "neighbor": true
         },
         {
             "id": "desserts",
             "text": "desserts",
-            "lang": "en",
             "centerNode": "cookies",
             "neighbor": true
         },
         {
             "id": "brownies",
             "text": "brownies",
-            "lang": "en",
             "centerNode": "cookies",
             "neighbor": true
         },
         {
             "id": "suger",
             "text": "suger",
-            "lang": "en",
             "centerNode": "cookies",
             "neighbor": true
         },
         {
             "id": "今はまだ",
             "text": "今はまだ",
-            "lang": "un",
             "centerNode": "present",
             "neighbor": true
         },
         {
             "id": "takes",
             "text": "takes",
-            "lang": "en",
             "centerNode": "only",
             "neighbor": true
         },
         {
             "id": "starprandevents",
             "text": "starprandevents",
-            "lang": "en",
             "centerNode": "celebrate",
             "neighbor": true
         },
         {
             "id": "country",
             "text": "country",
-            "lang": "en",
             "centerNode": "look",
             "neighbor": true
         },
         {
             "id": "experience",
             "text": "experience",
-            "lang": "en",
             "centerNode": "look",
             "neighbor": true
         },
         {
             "id": "but",
             "text": "but",
-            "lang": "en",
             "centerNode": "joy",
             "neighbor": true
         },
         {
             "id": "blessings",
             "text": "blessings",
-            "lang": "en",
             "centerNode": "joy",
             "neighbor": true
         },
         {
             "id": "much",
             "text": "much",
-            "lang": "en",
             "centerNode": "see",
             "neighbor": true
         },
         {
             "id": "likeachild",
             "text": "likeachild",
-            "lang": "un",
             "centerNode": "christmaseveeve",
             "neighbor": true
         },
         {
             "id": "bigkid",
             "text": "bigkid",
-            "lang": "en",
             "centerNode": "christmaseveeve",
             "neighbor": true
         },
         {
             "id": "bmw",
             "text": "bmw",
-            "lang": "en",
             "centerNode": "weekend",
             "neighbor": true
         },
         {
             "id": "branding",
             "text": "branding",
-            "lang": "en",
             "centerNode": "weekend",
             "neighbor": true
         },
         {
             "id": "vr",
             "text": "vr",
-            "lang": "en",
             "centerNode": "weekend",
             "neighbor": true
         },
         {
             "id": "instagram",
             "text": "instagram",
-            "lang": "en",
             "centerNode": "lights",
             "neighbor": true
         },
         {
             "id": "presentsunderthetree",
             "text": "presentsunderthetree",
-            "lang": "en",
             "centerNode": "lights",
             "neighbor": true
         },
         {
             "id": "switch",
             "text": "switch",
-            "lang": "en",
             "centerNode": "lights",
             "neighbor": true
         },
         {
             "id": "that",
             "text": "that",
-            "lang": "en",
             "centerNode": "know",
             "neighbor": true
         },
         {
             "id": "24",
             "text": "24",
-            "lang": "en",
             "centerNode": "know",
             "neighbor": true
         },
         {
             "id": "commute",
             "text": "commute",
-            "lang": "en",
             "centerNode": "morning",
             "neighbor": true
         },
         {
             "id": "hotporridgemassive",
             "text": "hotporridgemassive",
-            "lang": "en",
             "centerNode": "morning",
             "neighbor": true
         },
         {
             "id": "warmest",
             "text": "warmest",
-            "lang": "en",
             "centerNode": "wishes",
             "neighbor": true
         },
         {
             "id": "train",
             "text": "train",
-            "lang": "en",
             "centerNode": "go",
             "neighbor": true
         },
         {
             "id": "pharmacy",
             "text": "pharmacy",
-            "lang": "en",
             "centerNode": "go",
             "neighbor": true
         },
         {
             "id": "dress",
             "text": "dress",
-            "lang": "en",
             "centerNode": "people",
             "neighbor": true
         },
         {
             "id": "20",
             "text": "20",
-            "lang": "en",
             "centerNode": "people",
             "neighbor": true
         },
         {
             "id": "gee",
             "text": "gee",
-            "lang": "en",
             "centerNode": "thanks",
             "neighbor": true
         },
         {
             "id": "different",
             "text": "different",
-            "lang": "en",
             "centerNode": "house",
             "neighbor": true
         },
         {
             "id": "because",
             "text": "because",
-            "lang": "en",
             "centerNode": "house",
             "neighbor": true
         },
         {
             "id": "joulusauna",
             "text": "joulusauna",
-            "lang": "en",
             "centerNode": "peace",
             "neighbor": true
         },
         {
             "id": "lovepictwittercomivuchfsdnw",
             "text": "lovepictwittercomivuchfsdnw",
-            "lang": "en",
             "centerNode": "peace",
             "neighbor": true
         },
         {
             "id": "save",
             "text": "save",
-            "lang": "en",
             "centerNode": "money",
             "neighbor": true
         },
         {
             "id": "can",
             "text": "can",
-            "lang": "en",
             "centerNode": "try",
             "neighbor": true
         },
         {
             "id": "video",
             "text": "video",
-            "lang": "en",
             "centerNode": "try",
             "neighbor": true
         },
         {
             "id": "christ",
             "text": "christ",
-            "lang": "en",
             "centerNode": "thank",
             "neighbor": true
         },
         {
             "id": "photographs",
             "text": "photographs",
-            "lang": "en",
             "centerNode": "beautiful",
             "neighbor": true
         },
         {
             "id": "weather",
             "text": "weather",
-            "lang": "en",
             "centerNode": "beautiful",
             "neighbor": true
         },
         {
             "id": "cheer",
             "text": "cheer",
-            "lang": "et",
             "centerNode": "kids",
             "neighbor": true
         },
         {
             "id": "singing",
             "text": "singing",
-            "lang": "et",
             "centerNode": "kids",
             "neighbor": true
         },
         {
             "id": "lovely",
             "text": "lovely",
-            "lang": "en",
             "centerNode": "kids",
             "neighbor": true
         },
         {
             "id": "wlwpictwittercomuk9nc80ffp",
             "text": "wlwpictwittercomuk9nc80ffp",
-            "lang": "en",
             "centerNode": "kids",
             "neighbor": true
         },
         {
             "id": "no",
             "text": "no",
-            "lang": "en",
             "centerNode": "need",
             "neighbor": true
         },
         {
             "id": "friend",
             "text": "friend",
-            "lang": "en",
             "centerNode": "need",
             "neighbor": true
         },
         {
             "id": "chinese",
             "text": "chinese",
-            "lang": "en",
             "centerNode": "food",
             "neighbor": true
         },
         {
             "id": "rt",
             "text": "rt",
-            "lang": "en",
             "centerNode": "find",
             "neighbor": true
         },
         {
             "id": "do",
             "text": "do",
-            "lang": "en",
             "centerNode": "find",
             "neighbor": true
         },
         {
             "id": "us",
             "text": "us",
-            "lang": "en",
             "centerNode": "find",
             "neighbor": true
         }
