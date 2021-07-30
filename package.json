@@ -9,6 +9,8 @@
     "lint": "vue-cli-service lint"
   },
   "dependencies": {
+    "@antv/g6": "^4.3.4",
+    "@antv/util": "^2.0.14",
     "@beeweb/logger": "^1.0.15",
     "core-js": "^3.6.5",
     "vue": "^2.6.11",

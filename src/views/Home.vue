@@ -1,14 +1,25 @@
 <template>
-  <div class="home">
-    <div align="center">
-      <h1 style="color: #303133;">___实验室___</h1>
-      <h5 style="color: #666;">代码搬运中......</h5>
-    </div>
+  <div class="home-container">
+    <div id="container" />
   </div>
 </template>
 
 <script>
 export default {
   name: "Home",
+  mounted() {
+    require("@/utils/dashboard");
+  },
 };
 </script>
+
+<style lang="scss" scoped>
+@import "@/styles/mixins.scss";
+.home-container {
+  @include set_w_h;
+  @include flex_center;
+  #container {
+    @include set_w_h;
+  }
+}
+</style>
