@@ -10,6 +10,16 @@ const routes = [
     name: 'Home',
     component: Home
   },
+  {
+    path: '/wmeimob',
+    name: 'wmeimob',
+    component: () => import('@/views/wmeimob/index.vue')
+  },
+  {
+    path: '/gj',
+    name: 'gj',
+    component: () => import('@/views/gj/index.vue')
+  }
 ]
 
 const router = new VueRouter({
