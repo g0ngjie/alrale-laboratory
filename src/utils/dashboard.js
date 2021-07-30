@@ -366,7 +366,7 @@ graph = new G6.Graph({
     linkCenter: true,
     layout: layoutCfg,
     modes: {
-        default: ['drag-canvas'],
+        default: ['zoom-canvas'],
     },
     defaultNode: {
         type: 'bubble',

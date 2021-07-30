@@ -2,105 +2,105 @@ export default {
     "nodes": [
         {
             "text": "christmas",
-            "count": 100,
+            "count": 39095,
             "lang": "en",
             "id": "christmas",
             "type": "noun"
         },
         {
             "text": "merry",
-            "count": 100,
+            "count": 4741,
             "lang": "en",
             "id": "merry",
             "type": "adj"
         },
         {
             "text": "gift",
-            "count": 100,
+            "count": 2688,
             "lang": "en",
             "id": "gift",
             "type": "noun"
         },
         {
             "text": "christmaseve",
-            "count": 100,
+            "count": 2676,
             "lang": "en",
             "id": "christmaseve",
             "type": "noun"
         },
         {
             "text": "santa",
-            "count": 100,
+            "count": 2315,
             "lang": "en",
             "id": "santa",
             "type": "noun"
         },
         {
             "text": "happy",
-            "count": 100,
+            "count": 2286,
             "lang": "en",
             "id": "happy",
             "type": "adj"
         },
         {
             "text": "family",
-            "count": 100,
+            "count": 1870,
             "lang": "en",
             "id": "family",
             "type": "noun"
         },
         {
             "text": "eve",
-            "count": 100,
+            "count": 1829,
             "lang": "en",
             "id": "eve",
             "type": "noun"
         },
         {
             "text": "amp",
-            "count": 100,
+            "count": 1771,
             "lang": "en",
             "id": "amp",
             "type": "noun"
         },
         {
             "text": "love",
-            "count": 100,
+            "count": 1691,
             "lang": "en",
             "id": "love",
             "type": "v"
         },
         {
             "text": "holidays",
-            "count": 100,
+            "count": 1614,
             "lang": "en",
             "id": "holidays",
             "type": "noun"
         },
         {
             "text": "day",
-            "count": 100,
+            "count": 1441,
             "lang": "en",
             "id": "day",
             "type": "noun"
         },
         {
             "text": "everyone",
-            "count": 100,
+            "count": 1441,
             "lang": "en",
             "id": "everyone",
             "type": "noun"
         },
         {
             "text": "time",
-            "count": 100,
+            "count": 1341,
             "lang": "en",
             "id": "time",
             "type": "noun"
         },
         {
             "text": "holiday",
-            "count": 100,
+            "count": 1328,
             "lang": "en",
             "id": "holiday",
             "type": "noun"
