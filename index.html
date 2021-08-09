@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="">
+
+<head>
+    <script src="http://api.map.baidu.com/api?v=3.0&ak=RD3fQS8GA1UeR4Ig10ejdEkTg1OfwuV3"></script>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width,initial-scale=1.0">
+    <link rel="icon" href="./favicon.ico">
+    <title>实验室</title>
+    <link rel="stylesheet" href="./base.css">
+    <style>
+        body {
+            background-color: rgb(39, 37, 37);
+        }
+
+        li {
+            width: 100%;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            padding: 5px;
+            margin: 3px;
+        }
+
+        li:hover {
+            background-color: #303133;
+            cursor: pointer;
+        }
+
+        .label {
+            font-size: 18px;
+            color: #606266;
+            font-weight: 600;
+            width: 100px;
+            display: flex;
+            justify-content: flex-end;
+        }
+
+        .label::after {
+            content: ':';
+            margin: 0 5px;
+        }
+
+        .desc {
+            font-size: 18px;
+            color: #7b7d81;
+            min-width: 500px;
+        }
+
+        .desc:hover {
+            color: #487a31;
+        }
+    </style>
+</head>
+
+<body>
+    <ul />
+</body>
+<script>
+    const jsons = [
+        { label: 'Gj', dir: 'gj', desc: '个人首页' },
+        { label: 'Wmeimob', dir: 'wmeimob', desc: '微盟移动端' },
+    ]
+
+    function getContentDom(className, content = '') {
+        const contentDom = document.createElement('div')
+        contentDom.className = className
+        contentDom.innerText = content
+        return contentDom
+    }
+    function initList() {
+        const ulDom = document.querySelector('ul')
+        for (let i = 0; i < jsons.length; i++) {
+            const liDom = document.createElement('li')
+            const { label, dir, desc } = jsons[i];
+            liDom.appendChild(getContentDom('label', label))
+            liDom.appendChild(getContentDom('desc', desc))
+            liDom.onclick = function () {
+                window.open(`./materials/${dir}/index.html`)
+            }
+            ulDom.appendChild(liDom)
+        }
+    }
+    window.onload = function () {
+        initList()
+    }
+</script>
+
+</html>
