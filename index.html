@@ -78,7 +78,7 @@
             liDom.appendChild(getContentDom('label', label))
             liDom.appendChild(getContentDom('desc', desc))
             liDom.onclick = function () {
-                window.open(`./materials/${dir}/index.html`)
+                window.open(`./materials/${dir}`)
                 logger.handleClick({ path: dir, title: label })
             }
             ulDom.appendChild(liDom)
