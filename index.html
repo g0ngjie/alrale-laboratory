@@ -8,8 +8,9 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width,initial-scale=1.0">
     <meta name="keywords" content="实验室, alrale, laboratory, alrale-laboratory" />
-    <meta name="keywords" content="ssr, SSR, nuxt, nuxtjs, 微盟" />
+    <meta name="keywords" content="ssr, SSR, nuxt, nuxtjs, 微盟, 美盟" />
     <meta name="keywords" content="AntV/X6, antv, g6, x6, 图形化" />
+    <meta name="keywords" content="门户, 后台管理基础框架, 拖拽" />
     <meta name="description" content="实验项目" />
     <link rel="icon" href="./favicon.ico">
     <title>实验室</title>
@@ -37,7 +38,7 @@
             font-size: 18px;
             color: #98999c;
             font-weight: 600;
-            width: 100px;
+            width: 180px;
             display: flex;
             justify-content: flex-end;
         }
@@ -54,7 +55,7 @@
         }
 
         .desc:hover {
-            color: #487a31;
+            color: #6ab348;
         }
 
         #tooltip-container {
@@ -82,17 +83,32 @@
     <div id="tooltip-container" />
 </body>
 <script>
+    const isLocal = ['location', '127.0.0.1'].indexOf(location.hostname) > -1
+    if (isLocal) logger = { mount: () => { } }
+
     const jsons = [
         { label: 'AntV/X6', dir: 'x6', desc: 'X6 图编辑引擎' },
         { label: 'Wmeimob', dir: 'wmeimob', desc: '微盟移动端' },
+        { label: 'Door UI', dir: 'door_ui', desc: '移动端门户' },
+        { label: 'Base Admin', dir: 'base_admin', desc: '整理一套Web后台的基础架构代码' },
     ]
 
     const descMap = {
         x6: `图形化组件,基于Vue2使用AntV/X6实现;
             元素节点使用Svg,可配置成Vue Component格式;
-            多种图形渲染方式实践`,
+            多种图形渲染方式实践
+            源码备有详细开发思路`,
         wmeimob: `移动端官网项目实践;
-                使用NuxtJS框架实现服务端SSR;`
+                使用NuxtJS框架实现服务端SSR;
+                18年为美盟做的移动端官网`,
+        door_ui: `门户bug版，2017年末做的一个Demo，由于开发周期短，目前存在一点bug。只是为了好玩，借鉴了公司的
+                门户系统，自己开发了一套。 集成于钉钉系统，实现可快速搭配的自定义门户。`,
+        base_admin: `大概在2017年末时编写的。为解决前端开发当中部分重复性劳动力。
+                    把常用功能都以抽象成组件。实际开发当中只需要按照固定格式， 编写少量的配置文件即可实现页面的搭建。
+                    为开发节省了大量的布局时间。实现敏捷式开发。
+                    预期设想是结合表单设计器，达到全部在线拖拽生成高可用代码或项目。
+                    疲惫于精力有限，迟迟无法顺利进行，后期以无迭代，食之无味弃之可惜。基于此留作纪念。
+                `
     }
 
     const tooltipDom = document.getElementById('tooltip-container')
