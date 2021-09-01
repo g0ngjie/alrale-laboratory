@@ -93,6 +93,7 @@
         { label: 'Base Admin', dir: 'base_admin', desc: '整理一套Web后台的基础架构代码' },
         { label: 'Dissertation', dir: 'dissertation', desc: '表格拖拽使用案例' },
         { label: 'ElementUI Ext', dir: 'vue2_element_component', desc: 'Element UI组件增强' },
+        { label: 'Activity', dir: 'car_activity', desc: '车机活动', pwd: '注意安全' },
     ]
 
     const descMap = {
@@ -114,7 +115,9 @@
         dissertation: `vue2+vuedraggable 手写table实现表格拖拽`,
         vue2_element_component: `ElementUI 提供的基础UI支持, 在部分使用场景下无法达到预期效果;
                     基于此做组件功能的定制化拓展和完善.
-                `
+                `,
+        car_activity: `车机端H5活动，请打开F12，通过设备仿真功能设置平板模式下分辨率为1328*576
+                    密钥：注意安全`,
     }
 
     const tooltipDom = document.getElementById('tooltip-container')
@@ -132,16 +135,26 @@
         contentDom.innerText = content
         return contentDom
     }
+
+    function validate(pwd, cb) {
+        if (pwd) {
+            const secret = prompt('请输入密钥信息', '我会注意安全')
+            if (secret === pwd) cb()
+        } else cb()
+    }
+
     function initList() {
         const ulDom = document.querySelector('ul')
         for (let i = 0; i < jsons.length; i++) {
             const liDom = document.createElement('li')
-            const { label, dir, desc } = jsons[i];
+            const { label, dir, desc, pwd } = jsons[i];
             liDom.appendChild(getContentDom('label', label))
             liDom.appendChild(getContentDom('desc', desc))
             liDom.onclick = function () {
-                window.open(`./materials/${dir}`)
-                logger.handleClick({ path: dir, title: label })
+                validate(pwd, () => {
+                    window.open(`./materials/${dir}`)
+                    logger.handleClick({ path: dir, title: label })
+                })
             }
             const detail = descMap[dir]
             liDom.onmouseenter = function (e) {
