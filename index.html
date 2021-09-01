@@ -117,6 +117,7 @@
                     基于此做组件功能的定制化拓展和完善.
                 `,
         car_activity: `车机端H5活动，请打开F12，通过设备仿真功能设置平板模式下分辨率为1328*576
+                    因为存在大量游戏动画使用到的序列帧，所以资源加载比较大，可能访问会比较慢
                     密钥：注意安全`,
     }
 
@@ -138,7 +139,7 @@
 
     function validate(pwd, cb) {
         if (pwd) {
-            const secret = prompt('请输入密钥信息', '我会注意安全')
+            const secret = prompt('请输入密钥信息', '我会 注意安全')
             if (secret === pwd) cb()
         } else cb()
     }
