@@ -54,6 +54,10 @@
             <div class="label">文字点选验证</div>
             <div id="textClick"></div>
         </section>
+        <section>
+            <div class="label">滑动图片验证</div>
+            <div id="sliderImg"></div>
+        </section>
     </div>
 </body>
 <script src="./lib.umd.min.js"></script>
@@ -104,6 +108,21 @@
     }, function (res) {
         console.log("[debug]res:", res)
     })
+
+    // 滑动图片验证
+    new lib.SliderImg({
+        container: document.getElementById("sliderImg"),
+        width: 400,
+        height: 200,
+        images: [
+            "https://th.bing.com/th/id/OIP.2gS4UgpMqzgMv_WcelDaZwAAAA?pid=ImgDet&rs=1",
+            "https://th.bing.com/th/id/OIP.W3ZzYPC0KT8ijxyc-1wpGAAAAA?pid=ImgDet&rs=1",
+            "https://th.bing.com/th/id/R.0233d6fa7a283ac2cc9adbbce09b2150?rik=mAI8iultzrL3OQ&pid=ImgRaw&r=0&sres=1&sresct=1",
+        ],
+    }, function (res) {
+        console.log("[debug]res:", res);
+    }
+    );
 </script>
 
 </html>
